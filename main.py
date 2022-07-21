@@ -193,4 +193,4 @@ def __main__(csvToRead, csvOutput):
 
 
 if __name__ == "__main__":
-    __main__(sys.argv[1], sys.argv[2])
+    __main__(sys.argv[0], sys.argv[1])
